@@ -7,13 +7,6 @@ body {
     background: linear-gradient(-45deg, #35577D, #141E30);
     font-family: Georgia;
     color: #FFF !important;
-
-  }
-
-  h1 {
-    font-size: 2em;
-    padding-top: 50px;
-    width: 100%;
     text-align: center;
-  }
 
+  }
