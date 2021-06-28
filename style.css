@@ -108,8 +108,32 @@ h4 {
 }
 
 #me {
-
+    width: 10em;
+    height: auto;
     margin-top: 20px;
-    padding-left: 35%;
+    margin-left: 35%;
 
+}
+
+.calendar {
+    padding-left: 15em;
+}
+
+#class {
+    margin-top: 40px;
+    font-weight: bold;
+    color: #003262;
+    padding-left: 10em;
+
+}
+
+.lab ul{
+    padding-left: 15em;
+    text-align: left;
+}
+
+.lab h3{
+    padding-left: 16%;
+    text-align: left;
+    text-decoration: none;
 }
