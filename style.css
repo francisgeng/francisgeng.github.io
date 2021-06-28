@@ -5,17 +5,15 @@ body {
     background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background: linear-gradient(-45deg, #35577D, #141E30);
-    margin: 0;
-    padding: 0;
     font-family: Georgia;
+    color: #FFF !important;
 
   }
 
   h1 {
-    color: #FFF !important;
     font-size: 2em;
-    padding-top: 100px;
+    padding-top: 50px;
     width: 100%;
-    text-align: left;
+    text-align: center;
   }
 
