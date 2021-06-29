@@ -117,30 +117,37 @@ h4 {
 }
 
 .calendar {
-    padding-left: 15em;
+    padding-left: 12%;
 }
 
 #class {
     margin-top: 40px;
     font-weight: bold;
     color: #003262;
-    padding-left: 10em;
+    padding-left: 12%;
 
 }
 
 .lab ul{
-    padding-left: 15em;
+    padding-left: 14%;
     text-align: left;
 }
 
 .lab h3{
-    padding-left: 16%;
+    padding-left: 14%;
     text-align: left;
     text-decoration: none;
 }
+
 
 .cal {
     background: linear-gradient(90deg, #003262, #FDB515);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+table, tr, th {
+    text-align: left;
+    padding-left: 14%;
+    width:max-content;
 }
